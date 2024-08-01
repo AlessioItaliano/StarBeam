@@ -12,7 +12,7 @@ My SRM (Sales and Relationship Management) system for a pawn shop helps manage c
 # How to Run the Project
 
 Simply type in the [link](https://alessioitaliano.github.io/StarBeam/), and let
-the magic unfold.
+the magic unfold. If you need backend part [link](https://github.com/AlessioItaliano/starbeam-pawn-backend)
 
 # Used technologies
 
